@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmFkGV6kN+MkBG46Um6vC8y5h2YLd7HltrfNyRKMlaZtiiS3MO2tiHYEmh4WKo1NMIqFh1+7aMFofl5njj6p3Q==",
+  "success": true,
+  "projectFilePath": "D:\\_\\AhmedRaafat_dot net core\\AhmedRaafat_Task\\ShopAPI\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed.Raafat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Entities.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Repository.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete

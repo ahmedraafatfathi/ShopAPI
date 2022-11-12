@@ -1,0 +1,9 @@
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\bin\Debug\netcoreapp3.1\FeedProcessor.deps.json
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\bin\Debug\netcoreapp3.1\FeedProcessor.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\bin\Debug\netcoreapp3.1\FeedProcessor.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\obj\Debug\netcoreapp3.1\FeedProcessor.csprojAssemblyReference.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\obj\Debug\netcoreapp3.1\FeedProcessor.AssemblyInfoInputs.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\obj\Debug\netcoreapp3.1\FeedProcessor.AssemblyInfo.cs
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\obj\Debug\netcoreapp3.1\FeedProcessor.csproj.CoreCompileInputs.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\obj\Debug\netcoreapp3.1\FeedProcessor.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\FeedProcessor\obj\Debug\netcoreapp3.1\FeedProcessor.pdb

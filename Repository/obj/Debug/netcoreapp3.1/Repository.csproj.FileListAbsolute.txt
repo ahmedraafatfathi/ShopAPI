@@ -1,0 +1,15 @@
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+D:\_\AhmedRaafat_dot net core\AhmedRaafat_Task\ShopAPI\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache
